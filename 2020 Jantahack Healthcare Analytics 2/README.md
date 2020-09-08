@@ -7,7 +7,7 @@ This parameter helps hospitals to identify patients of high LOS risk (patients w
 Suppose you have been hired as Data Scientist of HealthMan – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner.
 The task is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
-Link for the dataset: https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics-ii/#ProblemStatement
+[Link for the Dataset](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics-ii/#ProblemStatement)
 
 ## Evaluation Metric
 The evaluation metric for this hackathon is **100*Accuracy Score.**
@@ -17,4 +17,4 @@ By using XGBoost on the dataset and tuning it by tweaking some hyperparamenters,
 
 I got **42.74% accuracy on private leaderboard with a rank of 53.**
 
-Link to the Leaderboard: https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics-ii/#LeaderBoard
+[Link to the Leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics-ii/#LeaderBoard)
