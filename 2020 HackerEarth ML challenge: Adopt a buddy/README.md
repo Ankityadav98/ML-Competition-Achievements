@@ -10,6 +10,7 @@ The dataset consists of parameters such as: a unique ID assigned to each animal 
 # Evaluation Metrics
 s1=f1_score(actual_values[′pet_category′],predicted_values[′pet_category′],average=′weighted′)
 s2=f1_score(actual_values[′breed_category′],predicted_values[′breed_category′],average=′weighted′)
-score=100×s1+s22
+
+score=100×(s1+s2)/2
 
 **Private Leaderboard Rank:** 108 ([Link to the Leaderboard.](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/page/3/))
