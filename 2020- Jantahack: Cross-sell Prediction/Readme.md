@@ -14,5 +14,5 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 # Leaderboard
 [Link to the Leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/#LeaderBoard)
 * Total Participants: **20609 registered**
-* Public Leaderboard: **85.80% (rank=135)**
+* Public Leaderboard: **85.80% (rank=139)**
 * Private Leaderboard: **86.28% (rank=105)**
