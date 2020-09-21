@@ -15,6 +15,8 @@ The evaluation metric for this hackathon is **100*Accuracy Score.**
 ## Algorithms Used
 By using XGBoost on the dataset and tuning it by tweaking some hyperparamenters, i got **42.917% accuracy on public leaderboard with rank of 57.** The solution of the problem is contained in the file named 'XGBoost.ipynb'. I have also used Deep neural netwrok and LightGBM algorithms whose solutions are in the file named 'DNN.ipynb' and 'lightGBM.ipynb' respectively.
 
-I got **42.74% accuracy on private leaderboard with a rank of 53.**
-
+# Leaderboard
+* Total participants: **19222 registered**
+* Public Leaderboard: **42.91% (rank=57)**
+* Private Leaderboard: **42.74% (rank=53)**
 [Link to the Leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics-ii/#LeaderBoard)
